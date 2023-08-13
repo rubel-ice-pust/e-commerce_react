@@ -1,4 +1,4 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 
 const Container = styled.div`
@@ -6,16 +6,15 @@ const Container = styled.div`
        background-color: teal;
        color: white;
        display: flex;
-       align-items: center;
        font-size: 14px;
        font-weight:500;
+       align-items: center;
+    justify-content: center;
 
 `;
 const Announcement = () => {
   return (
-     <Container>
-        Super Deal! Fre Shipping on Orders Over $50
-     </Container>
+     <Container>Super Deal! Fre Shipping on Orders Over $50</Container>
     )
 }
 
