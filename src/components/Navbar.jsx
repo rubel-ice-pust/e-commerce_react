@@ -68,7 +68,7 @@ const Navbar = () => {
               <Search style={{color:"gray", fontSize:16}}/>
             </SearchContainer>
          </Left>
-         <Center><Logo>Rubel</Logo></Center>
+         <Center><Logo>RUBEL</Logo></Center>
          <Right>
           <MenuItem>Register</MenuItem>
           <MenuItem>Sign In</MenuItem>
